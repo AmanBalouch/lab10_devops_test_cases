@@ -1,7 +1,7 @@
 package lab_10_test_cases;
 
 /**
- * Hello world! 
+ * Hello world!  
  *
  */
 public class App  
